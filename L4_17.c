@@ -6,5 +6,5 @@ int main()
     {
         sum+=i;
     }
-    printf("the total number of two digit odd numbers is %d",sum);
+    printf("the sum of two digit odd numbers is %d",sum);
 }
