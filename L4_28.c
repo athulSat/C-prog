@@ -22,5 +22,5 @@ int main()
 
 		  }
 	 }
-    printf("the samllest three digit Prime numbers %d",smallest);
+    printf("the smallest three digit Prime numbers %d",smallest);
 }
